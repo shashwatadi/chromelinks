@@ -7,6 +7,6 @@ export function middleware(req, ev) {
 
 
 
-    return NextResponse.redirect(`googlechromes://www.kohbee.com`);
+    return NextResponse.redirect(`vnd.youtube://4KnNVK-udTU`);
 
 }
